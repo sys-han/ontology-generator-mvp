@@ -1,0 +1,5 @@
+customer_id,name,risk_score,country
+C001,Acme Bakery,12,US
+C002,Northwind Labs,67,US
+C003,River & Pine,34,CA
+C004,Blue Finch LLC,81,US

@@ -1,0 +1,4 @@
+device_id,customer_id,ip_address,device_type
+D01,C001,198.51.100.8,mobile
+D02,C002,203.0.113.42,desktop
+D03,C004,203.0.113.42,mobile

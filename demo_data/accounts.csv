@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,opened_date
+A100,C001,checking,2025-01-10
+A101,C002,checking,2025-03-02
+A102,C002,savings,2025-05-18
+A103,C003,checking,2025-07-21
+A104,C004,checking,2025-08-11
