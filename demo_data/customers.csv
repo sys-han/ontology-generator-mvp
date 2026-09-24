@@ -1,5 +1,121 @@
 customer_id,name,risk_score,country
-C001,Acme Bakery,12,US
-C002,Northwind Labs,67,US
-C003,River & Pine,34,CA
-C004,Blue Finch LLC,81,US
+C001,Maple Labs,15,US
+C002,Lumen Retail LLC,6,CA
+C003,Copper Retail Inc,17,US
+C004,Clear Analytics Ltd,18,US
+C005,Atlas Holdings Group,21,SG
+C006,Silver Consulting Ltd,36,US
+C007,Blue Studio Ltd,84,CA
+C008,Maple Health Ltd,41,GB
+C009,Silver Design,24,CA
+C010,Stone Foods Inc,54,DE
+C011,River Media Co,10,SG
+C012,Lumen Health Ltd,18,US
+C013,Maple Trading,13,AU
+C014,Evergreen Supply Group,41,DE
+C015,Maple Partners Co,42,GB
+C016,Evergreen Design Inc,14,US
+C017,Granite Analytics Co,3,GB
+C018,Summit Foods Inc,84,US
+C019,Nova Logistics Group,37,SG
+C020,River Consulting,44,DE
+C021,Redwood Energy Co,15,CA
+C022,Lumen Studio LLC,14,DE
+C023,Silver Energy Inc,20,AU
+C024,Summit Media Co,18,AU
+C025,Blue Works LLC,37,SG
+C026,Bright Supply Co,20,US
+C027,Blue Consulting LLC,33,SG
+C028,North Health Ltd,16,AU
+C029,Cedar Bakery Ltd,22,AU
+C030,Evergreen Energy Inc,18,SG
+C031,Maple Services Inc,54,DE
+C032,Pine Bakery,46,GB
+C033,Redwood Analytics LLC,3,CA
+C034,Evergreen Supply Inc,93,US
+C035,Summit Holdings Ltd,11,US
+C036,Copper Partners,16,US
+C037,Pine Partners Group,14,AU
+C038,Pine Foods LLC,63,US
+C039,Pine Systems,26,US
+C040,Copper Foods Ltd,50,US
+C041,Atlas Bakery,13,SG
+C042,Granite Trading Inc,43,US
+C043,Bright Analytics Co,37,US
+C044,Oak Foods Co,19,CA
+C045,Summit Labs,9,GB
+C046,Atlas Energy Co,46,GB
+C047,Bright Services Ltd,8,SG
+C048,Granite Energy LLC,33,US
+C049,Evergreen Consulting,37,US
+C050,Stone Design Ltd,34,GB
+C051,Copper Trading Inc,22,GB
+C052,Oak Consulting LLC,91,GB
+C053,River Retail Group,38,AU
+C054,Bright Logistics Ltd,36,CA
+C055,Harbor Studio Inc,30,SG
+C056,Nova Health Inc,7,US
+C057,Clear Studio Inc,50,US
+C058,Redwood Trading Co,36,AU
+C059,Granite Energy Co,34,AU
+C060,Redwood Supply Inc,57,GB
+C061,Summit Supply Ltd,35,US
+C062,River Logistics Co,29,SG
+C063,Oak Services,4,DE
+C064,Harbor Health Co,23,AU
+C065,Summit Supply Co,25,US
+C066,Redwood Trading Group,29,US
+C067,Clear Trading Co,19,DE
+C068,Oak Supply Co,48,DE
+C069,Summit Logistics,17,AU
+C070,Redwood Supply Ltd,11,US
+C071,Harbor Works Group,4,SG
+C072,River Logistics Group,59,US
+C073,Lumen Foods Ltd,53,US
+C074,Clear Media LLC,40,GB
+C075,Granite Consulting Co,26,CA
+C076,Silver Supply Co,17,US
+C077,Nova Analytics Inc,97,CA
+C078,Atlas Supply Ltd,12,CA
+C079,Silver Studio,34,AU
+C080,Redwood Labs LLC,28,DE
+C081,Nova Consulting Group,22,AU
+C082,Pine Partners Ltd,23,US
+C083,River Bakery,37,CA
+C084,Harbor Studio Ltd,26,AU
+C085,Maple Labs Group,25,GB
+C086,Nova Works LLC,23,US
+C087,Lumen Partners LLC,35,SG
+C088,Redwood Manufacturing Ltd,62,US
+C089,River Bakery Ltd,52,US
+C090,Clear Manufacturing,45,AU
+C091,Silver Studio Ltd,88,SG
+C092,Maple Consulting Inc,52,GB
+C093,Redwood Works Co,41,US
+C094,Clear Analytics Group,18,GB
+C095,Lumen Foods Inc,27,AU
+C096,Silver Media Ltd,43,SG
+C097,Nova Partners,39,SG
+C098,Evergreen Labs,7,AU
+C099,Blue Bakery Ltd,35,US
+C100,North Design Inc,76,CA
+C101,Maple Manufacturing LLC,31,AU
+C102,Nova Studio Co,20,GB
+C103,Pine Labs Ltd,40,US
+C104,Redwood Consulting Co,22,DE
+C105,River Studio Group,27,AU
+C106,Oak Health,62,US
+C107,Evergreen Services Ltd,58,AU
+C108,North Trading Co,86,US
+C109,Nova Supply Ltd,57,SG
+C110,Stone Media Group,39,US
+C111,Redwood Systems,26,DE
+C112,Atlas Retail Inc,15,US
+C113,Silver Design Co,38,GB
+C114,North Manufacturing Ltd,42,GB
+C115,Clear Supply Co,33,GB
+C116,Harbor Labs,46,GB
+C117,Summit Design Ltd,24,US
+C118,Maple Foods Ltd,26,DE
+C119,Evergreen Energy Ltd,39,DE
+C120,Cedar Studio,48,US
